@@ -166,7 +166,7 @@ max-width: 200px;
 .imgbox{
     width: 1050px;
     height: 300px;
-    padding-left: 50px;
+    
     margin-top: 160px;
     position:relative;
     display: flex;
